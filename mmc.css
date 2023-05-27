@@ -1,0 +1,33 @@
+.pai{
+    width: 400px;
+    height: 230px;
+    margin-left: 452px;
+    margin-top: 100px;
+    border-color: black;
+    border-style: groove;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.texto{
+font-size: 27px;
+}
+
+.numero1{
+    display: flex;
+}
+
+.botão{
+    height: 17px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.numero2{
+    display: flex;
+}
+
+.number{
+    height: 17px;
+    width: 100px;
+    margin-top: 15px;    
+}
