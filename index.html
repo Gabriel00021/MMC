@@ -15,18 +15,21 @@
     <div class="pai">
         <p class="texto">Cálculo de MMC de dois Números</p>
 
-        <div class="numero1">
+        <div >
             <p>Digite um Número</p>
-            <input class="botão" type="number">
+            <input id="numero1" class="botão" type="number">
         </div>
 
-        <div class="numero2">
+        <div >
             <p>Digite outro Número</p>
-            <input class="number" type="number">
+            <input id="numero2" class="number" type="number">
         </div>
         
-        <button class="resultado" >Calcular MMC</button>
+        <button id="button" onclick="somar()" >Calcular MMC</button>
+        <p id="resultado"></p>
     </div>
+
+    <script src="mmc.js"></script>
 
 </body>
 </html>

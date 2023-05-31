@@ -1,6 +1,6 @@
 .pai{
     width: 400px;
-    height: 230px;
+    height: 270px;
     margin-left: 452px;
     margin-top: 100px;
     border-color: black;
@@ -12,7 +12,7 @@
 font-size: 27px;
 }
 
-.numero1{
+#numero1{
     display: flex;
 }
 
@@ -22,7 +22,7 @@ font-size: 27px;
     margin-top: 15px;
 }
 
-.numero2{
+#numero2{
     display: flex;
 }
 
@@ -30,4 +30,9 @@ font-size: 27px;
     height: 17px;
     width: 100px;
     margin-top: 15px;    
+}
+
+#resultado{
+    margin-left: 10px;
+
 }
